@@ -4,7 +4,7 @@ A beginner-friendly Python CLI app that lets you encode and decode text using si
 ---
 
 ### 🚀 Features
-#### 🔒 Encoding:
+#### 🔒 Encoding
 
 1-character input → returned as-is
 
@@ -12,7 +12,7 @@ A beginner-friendly Python CLI app that lets you encode and decode text using si
 
 3+ characters → rotate 1st letter to end and surround with 3 random letters on both sides
 
-#### 🔓 Decoding:
+#### 🔓 Decoding
 
 Remove first and last 3 random letters
 
